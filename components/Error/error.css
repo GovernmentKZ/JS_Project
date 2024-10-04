@@ -1,0 +1,36 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-yellow); /* Добавьте фон для контейнера */
+}
+
+.error-massage {
+    padding: 2rem 3rem; /* Используйте rem для адаптивности */
+    min-width: 300px; /* Минимальная ширина для мобильных устройств */
+    text-align: center;
+    background-color: var(--color-unacent);
+    box-shadow: var(--box-shadow);
+    color: var(--color-medium);
+    border-left: 7px solid black;
+    border-radius: 8px; /* Добавьте скругление углов */
+    transition: transform 0.3s ease; /* Анимация при наведении */
+}
+
+.error-massage:hover {
+    transform: scale(1.05); /* Увеличение при наведении */
+}
+
+.error-massage h3 {
+    margin: 0 0 1rem; /* Убираем верхний отступ и добавляем нижний */
+    font-size: 1.5rem; /* Размер шрифта заголовка */
+    color: #ff0092; /* Цвет заголовка */
+}
+
+.error-massage p {
+    margin: 0; /* Убираем отступы для параграфа */
+    font-size: 1rem; /* Размер шрифта для текста */
+    color: var(--color-secondary); /* Цвет текста */
+}

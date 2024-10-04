@@ -1,0 +1,50 @@
+[
+  {
+    "id": "el1",
+    "name": "КАЗАХСКАЯ БЕЛОГОЛОВАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/kazakh_belogolov.jpg",
+    "price": 450000
+  },
+  {
+    "id": "el2",
+    "name": "ГЕРЕФОРДСКАЯ",
+    "img": "img/catalog/hereford.jpg",
+    "price": 350000
+  },
+  {
+    "id": "el4",
+    "name": "КАЛМЫЦКАЯ",
+    "img": "img/catalog/kalmyckaya.jpg",
+    "price": 500000
+  },
+  {
+    "id": "el5",
+    "name": "БЕЛЬГИЙСКАЯ ГОЛУБАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/belgiyskaya.png",
+    "price": 500000
+  },
+  {
+    "id": "el6",
+    "name": "АБЕРДИН-АНГУССКАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/angus.jpg",
+    "price": 500000
+  },
+  {
+    "id": "el7",
+    "name": "ЛИМУЗИНСКАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/limuzinskaya.jpg",
+    "price": 500000
+  },
+  {
+    "id": "el9",
+    "name": "КИАНСКАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/kianskaya.jpg",
+    "price": 500000
+  },
+  {
+    "id": "el10",
+    "name": "ШОРТГОРНСКАЯ",
+    "img": "https://agral.kz/wp-content/uploads/2021/08/shorthorn.jpg",
+    "price": 500000
+  }
+]
